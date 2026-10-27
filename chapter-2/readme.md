@@ -1,7 +1,9 @@
 # Chapter 2
 
 <p align="center">
-    <img src="./media/thumbnail.png" alt="java-oop-chapter-2" width="600" />
+    <a href="https://youtu.be/CKtYQBi2wik" target="_blank" rel="noopener noreferrer">
+        <img src="./media/thumbnail.png" alt="java-oop-chapter-2" width="600" />
+    </a>
 </p>
 
 ## Clone

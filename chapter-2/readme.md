@@ -1,11 +1,5 @@
 # Chapter 2
 
-<p align="center">
-    <a href="https://youtu.be/CKtYQBi2wik" target="_blank" rel="noopener noreferrer">
-        <img src="./media/thumbnail.png" alt="java-oop-chapter-2" width="600" />
-    </a>
-</p>
-
 ## Clone
 
 ```sh
@@ -55,3 +49,11 @@ javac -d target/classes/main src/main/java/id/guntur/Main.java
 ```sh
 java -cp target/classes/main id.guntur.Main
 ```
+
+## Watch Me on YouTube
+
+<p align="center">
+    <a href="https://youtu.be/CKtYQBi2wik" target="_blank" rel="noopener noreferrer">
+        <img src="./media/thumbnail.png" alt="java-oop-chapter-2" width="800" />
+    </a>
+</p>
